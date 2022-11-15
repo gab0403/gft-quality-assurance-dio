@@ -12,9 +12,9 @@
 ## Princípios de Programação e Testes com Java
 - [x] Introdução a Plataforma Java
 - [x] Ambienrte de desenvolvimento Java
-- [] Aprendendo a Sintaxe Java
-- [] Lógica condicional e Controle de Fluxos em Java
-- [] Estruturas de Repetição e Arrays em Java
-- [] Entendendo métodos Java
+- [ ] Aprendendo a Sintaxe Java
+- [ ] Lógica condicional e Controle de Fluxos em Java
+- [ ] Estruturas de Repetição e Arrays em Java
+- [ ] Entendendo métodos Java
 
 
