@@ -17,4 +17,9 @@
 - [x] Estruturas de Repetição e Arrays em Java
 - [x] Entendendo métodos Java
 
-
+## Dominando Algoritmos Básicos com Desafios de Código Java
+- [x] Desafio: Média de Idade
+- [x] Desafio: Qual é o seu turno?
+- [x] Desafio: A fila do banco
+- [x] Desafio: Encontrando o percentual de desconto
+- [x] Desafio: Descubra o menor múltiplo
