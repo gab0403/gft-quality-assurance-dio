@@ -14,7 +14,7 @@
 - [x] Ambienrte de desenvolvimento Java
 - [x] Aprendendo a Sintaxe Java
 - [x] Lógica condicional e Controle de Fluxos em Java
-- [ ] Estruturas de Repetição e Arrays em Java
+- [x] Estruturas de Repetição e Arrays em Java
 - [ ] Entendendo métodos Java
 
 
