@@ -15,6 +15,6 @@
 - [x] Aprendendo a Sintaxe Java
 - [x] Lógica condicional e Controle de Fluxos em Java
 - [x] Estruturas de Repetição e Arrays em Java
-- [ ] Entendendo métodos Java
+- [x] Entendendo métodos Java
 
 
