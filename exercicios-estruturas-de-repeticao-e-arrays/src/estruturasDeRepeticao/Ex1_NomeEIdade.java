@@ -1,3 +1,4 @@
+package estruturasDeRepeticao;
 import java.util.Scanner;
 
 /*
@@ -16,11 +17,11 @@ public class Ex1_NomeEIdade {
 
             while(true) {
                 System.out.println("Nome: ");
-                nome = scan.next();
+                nome = scan.next(); // método next() retorna uma string.
                 if(nome.equals("0")) break;
    
                 System.out.println("Idade: ");
-                idade = scan.nextInt();
+                idade = scan.nextInt(); // método nextInt() retorna um inteiro.
             }
         }
 
