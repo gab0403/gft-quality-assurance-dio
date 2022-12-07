@@ -4,6 +4,7 @@ public class Carro {
     String cor;
     int modelo;
     int portas;
+    int rodas;
 
     Carro(String cor, int modelo, int portas) {
         this.cor = cor;
